@@ -1,0 +1,80 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.list{
+  height: 100px;
+  padding: 20px;
+  text-align: center;
+  background-color: aqua;
+}
+
+.main{
+  width: 800px;
+  height: 1600px;
+}
+
+.top1{
+  width: 600px;
+  height: 700px;
+  margin-right: 0px;
+  padding-left: 50px;
+}
+
+.top2{
+  width: 600px;
+  height: 700px;
+  margin-right: 0px;
+  padding-left: 50px;
+}
+
+.top3{
+  width: 600px;
+  height: 700px;
+  margin-right: 0px;
+  padding-left: 50px;
+}
+
+.No1{
+text-align: center;
+padding: 10px;
+}
+
+.No2{
+  text-align: center;
+  padding: 10px;
+}
+
+.No3{
+  text-align: center;
+  padding: 10px;
+}
+
+.image{
+  height: 400px;
+  width: 600px;
+  margin: 30px;
+  background-position: center;
+  background-size: cover;
+background-image: url(img/0f1081aa-b751-473a-b7a9-8fed872b226a.jpg);
+}
+
+.image2{
+  height: 400px;
+  width: 600px;
+  margin: 30px;
+  background-position: center;
+  background-size: cover;
+background-image: url(img/1217875.jpg);
+}
+
+.image3{
+  height: 400px;
+  width: 600px;
+  margin: 30px;
+  background-position: left;
+  background-size: cover;
+background-image: url(img/top_keyvisual_kv_pc.jpg);
+}
